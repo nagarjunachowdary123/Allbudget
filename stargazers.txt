@@ -1,0 +1,3 @@
+In the context of software development, "stargazers" typically refer to people who have starred a repository on GitHub. When you "star" a repository, it's similar to bookmarking it for future reference or showing your appreciation for the project.
+
+The number of stargazers a repository has can be an indication of its popularity and potential impact. Stargazers can be thought of as a type of social proof for the repository, indicating that others find it useful or interesting.
